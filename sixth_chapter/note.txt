@@ -1,0 +1,3 @@
+Please check the working directory before running any python file 
+working_dir "./sixth_chapter"
+And thank you <Andrew>
